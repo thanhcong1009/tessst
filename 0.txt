@@ -1,3 +1,7 @@
 Nội dung 0 -master
+<<<<<<< HEAD
 
 nội dung 1 masster
+=======
+sửa nhanh2
+>>>>>>> nhanh2
